@@ -1,0 +1,36 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    background-color: black;
+}
+
+.common {
+    align-self: center;
+    width: 100%;
+    margin: 25%;
+}
+
+img {
+    border: 10px solid skyblue;
+}
+
+h1 {
+  
+    color: white;
+    margin-left: 85px;
+    font-family: "Honk", system-ui;
+    font-size: 3rem;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h2 {
+    color: white;
+    margin-left: 99px;
+    font-size: 1rem; 
+    margin-top: 0px;
+    font-family: "Honk", system-ui;
+}
+
